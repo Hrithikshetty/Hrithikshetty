@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikshetty&label=Profile%20views&color=0e75b6&style=flat" alt="hrithikshetty" /> </p>
 
 
-- 🔭 I’m currently working on **GDSC Challenge**
+- 🔭 I’m currently working on **GDSC Solution Challenge**
 
 - 🌱 I’m currently learning **Full Stack Web Devlopment, Data Science**
 
