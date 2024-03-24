@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikshetty&label=Profile%20views&color=0e75b6&style=flat" alt="hrithikshetty" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Devlopment, Data Science**
+- 🌱 **Full Stack Web Devlopment, Data Science**
 
 - 👯 I’m looking to collaborate on **Python Libraries**
 
-- 🤝 I’m looking for help with **Competitive Programming Skills**
+- 🤝 **Competitive Programming Skills**
 
-- 💬 Ask me about **Frontend web development and c, c++ languages*
+- 💬 Ask me about **web development and c, c++ languages*
 
-- 😄 Pronouns   [coder,developer and leader]
+- 😄 Pronouns   [Programmer, developer and leader]
 
 - ⚡ Fun fact **I love Sleeping...**
 
