@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithikshetty&label=Profile%20views&color=0e75b6&style=flat" alt="hrithikshetty" /> </p>
 
-- 🌱 **Full Stack Web Devlopment, Data Science**
+- 🌱 **Full Stack Web Development, Data Science**
 
 - 👯 I’m looking to collaborate on **Python Libraries**
 
