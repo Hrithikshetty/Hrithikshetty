@@ -104,13 +104,7 @@ const hrithik = {
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hrithikshetty&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9F55FF&icon_color=7000FF&text_color=c9d1d9" alt="GitHub stats"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hrithikshetty&theme=radical&hide_border=true&background=0d1117&ring=7000FF&fire=9F55FF&currStreakLabel=9F55FF" alt="GitHub streak"/>
-
-<br/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrithikshetty&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9F55FF&text_color=c9d1d9" alt="Top languages"/>
 
 </div>
 
